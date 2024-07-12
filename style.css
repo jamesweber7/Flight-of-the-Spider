@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("assets/Bricks.png");
+}
+
+canvas {
+  display: block;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
