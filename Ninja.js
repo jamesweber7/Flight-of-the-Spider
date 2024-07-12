@@ -342,8 +342,8 @@ class Ninja extends Character {
 
         if (this.isPlayer) {
             this.isSwinging = (mouseIsPressed && mouseButton == LEFT);
-            this.swordControlX = mouseX;
-            this.swordControlY = mouseY;
+            this.swordControlX = mappedMouseX();
+            this.swordControlY = mappedMouseY();
         } else {
             this.swordControlX = this.enemyX;
             this.swordControlY = this.enemyY - 50;
