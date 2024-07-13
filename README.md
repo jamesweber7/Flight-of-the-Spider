@@ -4,6 +4,10 @@ How long can you survive against the spider invasion?
 
 [Play it on itch.io](https://gamesbyjames.itch.io/flight-of-the-spider)
 
+![Flight of the Spider Thumbnail](assets/fots_image1.png)
+
+![Gameplay Screenshot](assets/fots_screenshot.png)
+
 This is a game I made in Summer 2021. The initial prototype was made for the 2021 GMTK game jam. I think the game is neat enough, so I decided to dust it off and post it.
 
 (I had only completed one year of my computer science degree when working on this; don't judge the code quality.)
