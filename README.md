@@ -4,6 +4,8 @@ How long can you survive against the spider invasion?
 
 [Play it on itch.io](https://gamesbyjames.itch.io/flight-of-the-spider)
 
+[Watch gameplay on YouTube](https://youtu.be/5c05G_F-yYs)
+
 ![Flight of the Spider Thumbnail](assets/fots_image1.png)
 
 ![Gameplay Screenshot](assets/fots_screenshot.png)
